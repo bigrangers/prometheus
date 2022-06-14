@@ -1,2 +1,2 @@
 # prometheus
-test
+下载外网镜像
